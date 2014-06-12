@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_order_list"
+        android:icon="@drawable/ic_action_storage"
+        android:showAsAction="always"
+        android:title="@string/order_list"/>
+    <item
+        android:id="@+id/action_add_item"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="always"
+        android:title="@string/add"/>
+    <item
+        android:id="@+id/action_delete"
+        android:enabled="false"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="always"
+        android:title="@string/delete"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:showAsAction="always"
+        android:title="@string/search"/>
+
+</menu>

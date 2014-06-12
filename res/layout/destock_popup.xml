@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:name="fr.ugo.inventori.ItemListActivity"
+    tools:context=".ItemListActivity" >
+
+    <EditText
+        android:id="@+id/destock_quantity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/quantity"
+        android:inputType="number" />
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inventori</string>
+    <string name="order_list_activity">Order list</string>
+
+    <string name="order_list">Order List</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_new">New Item</string>
+    
+    <string name="empty_list">No item found</string>
+    
+    <string name="label">Label</string>
+    <string name="quantity">Quantity</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+    <string name="destock_content_desc">-</string>
+    <string name="stock_content_desc">+</string>
+    <string name="destock_popup_title">Destock item(s)</string>
+    <string name="order_popup_title">Order item(s)</string>
+    <string name="quantityTooHigh">Cannot destock more than the current amount of stocked items</string>
+    <string name="delete_confirm_msg">Are you sure you want to delete %d item(s) ?</string>
+    <string name="invalidFilter">Invalid filter string</string>
+
+    <string name="search_popup_title">Search</string>
+    <string name="new_item_title">New item</string>
+    <string name="search_ab_title">Search: </string>
+    <string name="search_pattern">Search Pattern</string>
+    
+    <string name="delivery_icon_content_description">Waiting for delivery</string>
+
+</resources>
